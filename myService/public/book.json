@@ -1,0 +1,19 @@
+{
+    "books":[
+        {
+            "name":"HTML权威指南",
+            "price":99.9,
+            "author":"liu"
+        },
+        {
+            "name":"CSS权威指南",
+            "price":120,
+            "author":"mang"
+        },
+        {
+            "name":"JSON权威指南",
+            "price":166,
+            "author":"mang"
+        }
+    ]
+}
